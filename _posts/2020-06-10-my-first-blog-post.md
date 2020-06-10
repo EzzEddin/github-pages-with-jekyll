@@ -1,1 +1,4 @@
-Hi, this is my first post
+---
+title: "Ezz"
+date: 2020-06-10
+---
